@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "体力譜面難易度表",
+"symbol" : "Pw",
+"data_url" : "https://script.google.com/macros/s/AKfycbx4a1bFyQ-5_aJg-RWgSZxuJA9qKcP7OBbdgwY6MEY--_q2hLhxh2-da10DEcaDrbfg/exec"
 }
